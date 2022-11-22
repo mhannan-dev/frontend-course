@@ -1,0 +1,62 @@
+h1, h2, h3, h4, h6, h5,li, p{
+    font-family: sans-serif;
+}
+h1 {
+    color: blue;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: rgb(255, 89, 0);
+    font-size: 40px;
+}
+h3 {
+    color: rgb(255, 89, 0);
+    font-size: 30px;
+}
+h4 {
+    color: rgb(255, 89, 0);
+    font-size: 20px;
+}
+p{
+    font-size: 22px;
+    line-height: 1.7;
+}
+li{
+    font-size: 20px;
+}
+#author{
+    font-size: 18px;
+    font-style: italic;
+}
+#copyrught{
+    font-size: 17px;
+}
+
+
+a {
+    /* text-decoration: none; */
+    /* color: black; */
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+
+}
+
+a:focus {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
