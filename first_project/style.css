@@ -1,8 +1,8 @@
 h1, h2, h3, h4, h6, h5,li, p{
-    font-family: sans-serif;
+    font-family:sans-serif;
 }
 h1 {
-    color: blue;
+    color: rgb(0, 183, 255);
     font-size: 26px;
     font-weight: bold;
     font-style: italic;
@@ -10,20 +10,22 @@ h1 {
 }
 
 h2 {
-    color: rgb(255, 89, 0);
+    color: rgb(255, 0, 132);
     font-size: 40px;
 }
 h3 {
-    color: rgb(255, 89, 0);
+    color: rgb(0, 4, 255);
     font-size: 30px;
 }
 h4 {
-    color: rgb(255, 89, 0);
+    color: rgb(255, 0, 30);
     font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
 }
 p{
     font-size: 22px;
-    line-height: 1.7;
+    line-height: 1.5;
 }
 li{
     font-size: 20px;
