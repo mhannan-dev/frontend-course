@@ -30,12 +30,28 @@ p{
 li{
     font-size: 20px;
 }
+/*footer p{
+    font-size: 16px;
+}*/
+/*article header p{
+font-style: italic;
+}*/
 #author{
     font-size: 18px;
     font-style: italic;
 }
-#copyrught{
+#copyright{
     font-size: 17px;
+}
+.related-author{
+    font-size: 18px;
+    font-weight: bold;
+}
+/*ul{
+    list-style: none;
+}*/
+.related{
+    list-style: none;
 }
 
 
