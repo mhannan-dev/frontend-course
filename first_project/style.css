@@ -1,5 +1,6 @@
 h1, h2, h3, h4, h6, h5,li, p{
     font-family:sans-serif;
+    color: #444;
 }
 h1 {
     color: rgb(0, 183, 255);
@@ -53,8 +54,17 @@ font-style: italic;
 .related{
     list-style: none;
 }
-
-
+/*header{
+    background-color: #f7f7f7;
+}*/
+.main-header{
+    background-color: #f7f7f7;
+}
+aside{
+    background-color: #f7f7f7;
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid #1098ad;
+}
 a {
     /* text-decoration: none; */
     /* color: black; */
